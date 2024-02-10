@@ -1,2 +1,1 @@
-# test
-trying
+# Sample application for demo purpose
