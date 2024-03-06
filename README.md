@@ -1,1 +1,1 @@
-# Sample dhell scripting file for demo purpose
+# Sample shell scripting file for demo purpose
